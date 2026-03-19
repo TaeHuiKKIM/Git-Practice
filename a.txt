@@ -1,3 +1,5 @@
 2026 해달 
 
 Git Practice
+
+준회원 Git 교육
